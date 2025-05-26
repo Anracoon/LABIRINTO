@@ -28,5 +28,7 @@
     {"name":"gameLabirinto","order":7,"path":"rooms/gameLabirinto/gameLabirinto.yy",},
     {"name":"menu","order":10,"path":"rooms/menu/menu.yy",},
     {"name":"iconLabGame","order":1,"path":"sprites/iconLabGame/iconLabGame.yy",},
+    {"name":"quartoXande","order":3,"path":"sprites/quartoXande/quartoXande.yy",},
+    {"name":"xande","order":2,"path":"sprites/xande/xande.yy",},
   ],
 }

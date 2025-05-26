@@ -48,6 +48,8 @@
     {"id":{"name":"menu","path":"rooms/menu/menu.yy",},},
     {"id":{"name":"iconLabGame","path":"sprites/iconLabGame/iconLabGame.yy",},},
     {"id":{"name":"labirintoFundo","path":"sprites/labirintoFundo/labirintoFundo.yy",},},
+    {"id":{"name":"quartoXande","path":"sprites/quartoXande/quartoXande.yy",},},
+    {"id":{"name":"xande","path":"sprites/xande/xande.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
