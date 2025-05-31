@@ -1,15 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_parede",
-  "eventList":[],
+  "%Name":"obj_opsicologo",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_parede",
+  "name":"obj_opsicologo",
   "overriddenProperties":[],
   "parent":{
-    "name":"mapa 1",
-    "path":"folders/Objetos/mapa 1.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_par_npc",
+    "path":"objects/obj_par_npc/obj_par_npc.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -28,9 +33,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_parede",
-    "path":"sprites/Spr_parede/Spr_parede.yy",
+    "name":"spr_retrato_2",
+    "path":"sprites/spr_retrato_2/spr_retrato_2.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

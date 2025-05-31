@@ -12,8 +12,8 @@
   "name":"obj_creditos",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"mapa 1",
+    "path":"folders/Objetos/mapa 1.yy",
   },
   "parentObjectId":null,
   "persistent":false,

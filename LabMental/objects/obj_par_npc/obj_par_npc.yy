@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_parede",
+  "%Name":"obj_par_npc",
   "eventList":[],
   "managed":true,
-  "name":"obj_parede",
+  "name":"obj_par_npc",
   "overriddenProperties":[],
   "parent":{
-    "name":"mapa 1",
-    "path":"folders/Objetos/mapa 1.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Spr_parede",
-    "path":"sprites/Spr_parede/Spr_parede.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
