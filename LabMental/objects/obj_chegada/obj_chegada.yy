@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite6",
-    "path":"sprites/Sprite6/Sprite6.yy",
+    "name":"Spr_chegada",
+    "path":"sprites/Spr_chegada/Spr_chegada.yy",
   },
   "spriteMaskId":null,
   "visible":false,

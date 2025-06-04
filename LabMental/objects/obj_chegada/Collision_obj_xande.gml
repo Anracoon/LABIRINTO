@@ -1,1 +1,1 @@
-room_goto(dialg_psico1);
+room_goto_next()
