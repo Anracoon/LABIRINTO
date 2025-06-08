@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_topics2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_topics2",
+  "parent":{
+    "name":"diagus2",
+    "path":"folders/Scripts/diagus2.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

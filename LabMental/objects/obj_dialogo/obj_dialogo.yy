@@ -11,8 +11,8 @@
   "name":"obj_dialogo",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"diagKaue",
+    "path":"folders/Objetos/diagKaue.yy",
   },
   "parentObjectId":null,
   "persistent":false,

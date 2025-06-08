@@ -1,1 +1,1 @@
-nome = "obj_opsicologo"
+nome = "obj_opsicologo";

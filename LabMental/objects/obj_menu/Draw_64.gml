@@ -15,7 +15,7 @@ for(var i = 0; i< op_max; i++)
 	
 	if(index == i) 
 	{
-	draw_set_color(c_blue);
+	draw_set_color(c_gray);
 	}else
 	{
 		draw_set_color(c_white);

@@ -9,8 +9,8 @@
   "name":"obj_controle",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"diagKaue",
+    "path":"folders/Objetos/diagKaue.yy",
   },
   "parentObjectId":null,
   "persistent":false,

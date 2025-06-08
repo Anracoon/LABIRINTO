@@ -1,6 +1,6 @@
 if(index == 0)
 {
-	room_goto(animacao1);
+	room_goto(cena1);
 
 }else if(index == 1)
 {

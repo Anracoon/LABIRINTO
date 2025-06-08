@@ -2,14 +2,14 @@
   "$GMObject":"",
   "%Name":"obj_demo",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":13,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_demo",
   "overriddenProperties":[],
   "parent":{
     "name":"diaguus1",
-    "path":"folders/Objetos/diaguus1.yy",
+    "path":"folders/Objetos/diagAna/diaguus1.yy",
   },
   "parentObjectId":null,
   "persistent":false,

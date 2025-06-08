@@ -13,8 +13,8 @@
   "name":"obj_menu",
   "overriddenProperties":[],
   "parent":{
-    "name":"mapa 1",
-    "path":"folders/Objetos/mapa 1.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

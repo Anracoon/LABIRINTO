@@ -2,9 +2,9 @@ function scr_textos(){
 	switch npc_nome{
 		case "obj_opsicologo":
 		    ds_grid_add_text("pscologo", spr_retrato_2, 0, "psicologo")
-			ds_grid_add_text("fala player", spr_retrato_1, 1, "player")
+			ds_grid_add_text("fala player", iconLabGame, 1, "player")
 		    ds_grid_add_text("psicologo fala", spr_retrato_2, 0, "psicologo")
-			ds_grid_add_text("player fala!", spr_retrato_1, 1, "player")
+			ds_grid_add_text("player fala!", iconLabGame, 1, "player")
 		break;
 	}
 		

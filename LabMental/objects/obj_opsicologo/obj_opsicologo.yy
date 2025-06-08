@@ -8,8 +8,8 @@
   "name":"obj_opsicologo",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"diagKaue",
+    "path":"folders/Objetos/diagKaue.yy",
   },
   "parentObjectId":{
     "name":"obj_par_npc",

@@ -6,8 +6,8 @@
   "name":"obj_parede",
   "overriddenProperties":[],
   "parent":{
-    "name":"mapa 1",
-    "path":"folders/Objetos/mapa 1.yy",
+    "name":"gameGigi",
+    "path":"folders/Objetos/gameGigi.yy",
   },
   "parentObjectId":null,
   "persistent":false,

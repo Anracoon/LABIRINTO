@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"diaguus1",
-    "path":"folders/Objetos/diaguus1.yy",
+    "path":"folders/Objetos/diagAna/diaguus1.yy",
   },
   "parentObjectId":null,
   "persistent":false,
