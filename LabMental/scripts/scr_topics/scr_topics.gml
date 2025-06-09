@@ -5,7 +5,7 @@ global.topics[$ "one"] = [
 	TEXT("ah... de novo esse sonho....."),
 	
 	SPEAKER("Cachorro", spr_portrait_rudy, PORTRAIT_SIDE.RIGHT),
-	TEXT("(latido, latido)"),
+	TEXT("AU AU"),
 	
 	SPEAKER("Alaxandre", spr_Porxande2, PORTRAIT_SIDE.LEFT),
 	TEXT("bom dia Pitty"),
@@ -14,7 +14,7 @@ global.topics[$ "one"] = [
 	TEXT("ta com fome? ja vou la arrumar"),
 	
 	SPEAKER("Pitty", spr_portrait_rudy, PORTRAIT_SIDE.RIGHT),
-	TEXT("(latido)"),
+	TEXT("AU!"),
 	
 	SPEAKER("Alaxandre", spr_Porxande3, PORTRAIT_SIDE.LEFT),
 	TEXT("ah verdade.... tenho que me arrumar, hoje tem consulta"),

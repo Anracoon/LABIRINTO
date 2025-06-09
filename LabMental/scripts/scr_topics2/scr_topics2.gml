@@ -11,7 +11,7 @@ global.topics2[$ "two"] = [
 	TEXT2("tchau Pitty!"),
 	
 	SPEAKER2("Pitty", spr_portrait_rudy, PORTRAIT_SIDE2.RIGHT2),
-	TEXT2("(latido, latido)"),
+	TEXT2("AU AU AU!"),
 	
 	TEXT2("APERTE ESPAÇO")
 ];

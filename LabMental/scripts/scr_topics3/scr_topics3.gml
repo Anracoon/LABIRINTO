@@ -1,7 +1,7 @@
 global.topics3 = {};
 
 global.topics3[$ "tree"] = [
-    SPEAKER3("Psic.", spr_portrait_psi, PORTRAIT_SIDE2.RIGHT2),
+    SPEAKER3("Psic.", spr_portrait_psi2, PORTRAIT_SIDE2.RIGHT2),
 	TEXT3("bom dia Alexandre!"),
 	
 	SPEAKER3("Alaxandre", spr_Porxande4, PORTRAIT_SIDE2.LEFT2),
@@ -10,7 +10,7 @@ global.topics3[$ "tree"] = [
 	SPEAKER3("Alaxandre", spr_Porxande2, PORTRAIT_SIDE2.LEFT2),
 	TEXT3("sabe que pode me chamar so de xande"),
 	
-	SPEAKER3("Psic.", spr_portrait_psi, PORTRAIT_SIDE2.RIGHT2),
+	SPEAKER3("Psic.", spr_portrait_psi2, PORTRAIT_SIDE2.RIGHT2),
 	TEXT3("é costume, me perdoe haha"),
 	
 	SPEAKER3("Psic.", spr_portrait_psi, PORTRAIT_SIDE2.RIGHT2),
