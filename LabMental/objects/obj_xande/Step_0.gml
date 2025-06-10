@@ -47,10 +47,15 @@ if(place_meeting(x,y+velv,obj_opsicologo)){
 
 y+=velv;
 
-if distance_to_object(obj_par_npc) <= 10{
-	if keyboard_check_pressed(ord("F")) {
-		var _npc = instance_nearest(x,y, obj_par_npc)
-		var _dialogo = instance_create_layer(x,y,"dialogo", obj_dialogo);
-		_dialogo.npc_nome = _npc.nome;
-	}
+if(place_meeting(x+velh,y,Obj_IrmaoSala1))
+{
+	Obj_IrmaoSala1.visible=0;
+	Obj_irmaoSala2.visible=100;
+}
+
+if(place_meeting(x+velh,y,Obj_irmaoSala2))
+{
+	Obj_irmaoSala2.visible=0;
+	Obj_irmaoSala3.visible=100;
+	
 }

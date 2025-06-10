@@ -1,0 +1,1 @@
+audio_play_sound(Snd_dialogoFinal,10,true);

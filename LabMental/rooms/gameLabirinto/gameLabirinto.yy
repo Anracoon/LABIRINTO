@@ -30,6 +30,7 @@
     {"name":"inst_74FE6F16","path":"rooms/gameLabirinto/gameLabirinto.yy",},
     {"name":"inst_19FC031B","path":"rooms/gameLabirinto/gameLabirinto.yy",},
     {"name":"inst_148BB25C","path":"rooms/gameLabirinto/gameLabirinto.yy",},
+    {"name":"inst_4E85A0F5","path":"rooms/gameLabirinto/gameLabirinto.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -58,6 +59,7 @@
         {"$GMRInstance":"v2","%Name":"inst_74FE6F16","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_74FE6F16","objectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":10.453125,"scaleY":0.90625,"x":774.0,"y":255.0,},
         {"$GMRInstance":"v2","%Name":"inst_19FC031B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_19FC031B","objectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.25,"scaleY":1.25,"x":968.0,"y":174.0,},
         {"$GMRInstance":"v2","%Name":"inst_148BB25C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_148BB25C","objectId":{"name":"obj_chegada","path":"objects/obj_chegada/obj_chegada.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1245.0,"y":128.0,},
+        {"$GMRInstance":"v2","%Name":"inst_4E85A0F5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4E85A0F5","objectId":{"name":"Obj_somLab","path":"objects/Obj_somLab/Obj_somLab.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":768.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[],"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Assets_1","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_2","assets":[

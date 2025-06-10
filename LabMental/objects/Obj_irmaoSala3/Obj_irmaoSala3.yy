@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dialogo",
+  "%Name":"Obj_irmaoSala3",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_dialogo",
+  "name":"Obj_irmaoSala3",
   "overriddenProperties":[],
   "parent":{
-    "name":"diagKaue",
-    "path":"folders/Objetos/diagKaue.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -33,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_retrato_2",
-    "path":"sprites/spr_retrato_2/spr_retrato_2.yy",
+    "name":"Spr_irmaoNaSala3",
+    "path":"sprites/Spr_irmaoNaSala3/Spr_irmaoNaSala3.yy",
   },
   "spriteMaskId":null,
   "visible":true,
