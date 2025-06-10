@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":1,
   "conversionMode":0,
-  "duration":207.40063,
+  "duration":51.6078,
   "name":"Snd_creditos",
   "parent":{
     "name":"Sons",

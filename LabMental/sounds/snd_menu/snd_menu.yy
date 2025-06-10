@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":1,
   "conversionMode":0,
-  "duration":168.11209,
+  "duration":36.41034,
   "name":"snd_menu",
   "parent":{
     "name":"Sons",

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_actions5",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_actions5",
+  "parent":{
+    "name":"diagus5",
+    "path":"folders/Scripts/diagus5.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

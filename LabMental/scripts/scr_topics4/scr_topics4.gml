@@ -38,10 +38,13 @@ global.topics4[$ "four"] = [
 	TEXT4("Sabe que pode voltar com o tratamento a qualquer momento não é?"),
 	
 	SPEAKER4("Psic.", spr_portrait_psi1, PORTRAIT_SIDE2.RIGHT2),
-	TEXT4("Eu vou estar aqui quando precisar viu"),
+	TEXT4("Eu vou estar aqui quando precisar viu?"),
 	
 	SPEAKER4("Alaxandre", spr_Porxande6, PORTRAIT_SIDE2.LEFT2),
 	TEXT4(".....obrigado, mas estou bem"),
+	
+	SPEAKER4("Alaxandre", spr_Porxande6, PORTRAIT_SIDE2.LEFT2),
+	TEXT4("eu ja vou indo para casa"),
 	
 	TEXT4("APERTE ESPAÇO")
 ];

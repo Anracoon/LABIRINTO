@@ -1,6 +1,7 @@
 global.topics = {};
 
 global.topics[$ "one"] = [
+
 	SPEAKER("Alaxandre", spr_Porxande, PORTRAIT_SIDE.LEFT),
 	TEXT("ah... de novo esse sonho....."),
 	

@@ -8,8 +8,8 @@
   "name":"SairSala2a",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"sair",
+    "path":"folders/Objetos/sair.yy",
   },
   "parentObjectId":null,
   "persistent":false,

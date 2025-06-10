@@ -19,7 +19,7 @@ if (sprite_exists(portrait_sprite3)) {
 	// What side is the portrait on?
 	if (portrait_side3 == PORTRAIT_SIDE3.LEFT3) {
 		// Shift the text over when the portrait is on the left
-		draw_text_x3 += portrait_width3 + portrait_x3 + padding3 * 6;
+		draw_text_x3 += portrait_width3 + portrait_x3 + padding3 * 12;
 	}
 	else {
 		// Shift the portrait itself over when it is on the right

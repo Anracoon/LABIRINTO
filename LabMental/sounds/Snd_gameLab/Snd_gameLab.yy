@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":1,
   "conversionMode":0,
-  "duration":106.645966,
+  "duration":58.794376,
   "name":"Snd_gameLab",
   "parent":{
     "name":"Sons",

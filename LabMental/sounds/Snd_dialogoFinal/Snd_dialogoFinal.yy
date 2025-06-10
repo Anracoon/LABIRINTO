@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":1,
   "conversionMode":0,
-  "duration":62.498344,
+  "duration":19.401724,
   "name":"Snd_dialogoFinal",
   "parent":{
     "name":"Sons",

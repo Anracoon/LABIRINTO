@@ -2,7 +2,7 @@
 #macro SPEAKER4 new SpeakerAction4
 
 function DialogueAction4() constructor {
-	act2 = function() { };
+	act4 = function() { };
 }
 
 // Define new text to type out
