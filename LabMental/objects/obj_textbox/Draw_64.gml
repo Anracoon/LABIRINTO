@@ -23,7 +23,7 @@ if (sprite_exists(portrait_sprite)) {
 	}
 	else {
 		// Shift the portrait itself over when it is on the right
-		draw_portrait_x = x + width - portrait_width - portrait_x;
+		draw_portrait_x = x + width - portrait_width - portrait_x - 200;
 		draw_portrait_xscale = -1;
 	}
 	

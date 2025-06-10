@@ -137,6 +137,7 @@
     {"id":{"name":"snd_quartinho","path":"sounds/snd_quartinho/snd_quartinho.yy",},},
     {"id":{"name":"ani","path":"sprites/ani/ani.yy",},},
     {"id":{"name":"ani2","path":"sprites/ani2/ani2.yy",},},
+    {"id":{"name":"crecre","path":"sprites/crecre/crecre.yy",},},
     {"id":{"name":"finalaaaaaaa","path":"sprites/finalaaaaaaa/finalaaaaaaa.yy",},},
     {"id":{"name":"fundinhomenu","path":"sprites/fundinhomenu/fundinhomenu.yy",},},
     {"id":{"name":"fundoGameFinal","path":"sprites/fundoGameFinal/fundoGameFinal.yy",},},

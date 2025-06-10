@@ -73,6 +73,7 @@
     {"name":"snd_pscicici","order":1,"path":"sounds/snd_pscicici/snd_pscicici.yy",},
     {"name":"snd_quartinho","order":8,"path":"sounds/snd_quartinho/snd_quartinho.yy",},
     {"name":"ani2","order":30,"path":"sprites/ani2/ani2.yy",},
+    {"name":"crecre","order":31,"path":"sprites/crecre/crecre.yy",},
     {"name":"finalaaaaaaa","order":5,"path":"sprites/finalaaaaaaa/finalaaaaaaa.yy",},
     {"name":"fundinhomenu","order":1,"path":"sprites/fundinhomenu/fundinhomenu.yy",},
     {"name":"fundoGameFinal","order":4,"path":"sprites/fundoGameFinal/fundoGameFinal.yy",},
