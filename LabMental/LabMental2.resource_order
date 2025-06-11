@@ -100,6 +100,7 @@
     {"name":"spr_Porxande6","order":8,"path":"sprites/spr_Porxande6/spr_Porxande6.yy",},
     {"name":"spr_quads","order":29,"path":"sprites/spr_quads/spr_quads.yy",},
     {"name":"spr_textbox","order":4,"path":"sprites/spr_textbox/spr_textbox.yy",},
+    {"name":"Sprite37","order":32,"path":"sprites/Sprite37/Sprite37.yy",},
     {"name":"xande","order":4,"path":"sprites/xande/xande.yy",},
     {"name":"xande2","order":5,"path":"sprites/xande2/xande2.yy",},
   ],
