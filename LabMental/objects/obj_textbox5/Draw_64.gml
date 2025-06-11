@@ -17,7 +17,7 @@ if (sprite_exists(portrait_sprite5)) {
 	var draw_portrait_xscale5 = 1;
 	
 	// What side is the portrait on?
-	if (portrait_side5 == PORTRAIT_SIDE2.LEFT2) {
+	if (portrait_side5 == PORTRAIT_SIDE5.LEFT5) {
 		// Shift the text over when the portrait is on the left
 		draw_text_x5 += portrait_width5 + portrait_x5 + padding5 * 6;
 	}

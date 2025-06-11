@@ -413,7 +413,6 @@
     {"$GMSpriteFrame":"","%Name":"63bf4469-ac1f-4ebe-b75a-3d195617c3ed","name":"63bf4469-ac1f-4ebe-b75a-3d195617c3ed","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"9a0ca3cc-cdf2-4a99-a902-e099ec3076b7","name":"9a0ca3cc-cdf2-4a99-a902-e099ec3076b7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"3ede3d9f-7243-4b09-8746-5cbb4a82dd9f","name":"3ede3d9f-7243-4b09-8746-5cbb4a82dd9f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"dbab48e1-f406-4d25-9978-e6bf72964fc2","name":"dbab48e1-f406-4d25-9978-e6bf72964fc2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"33ca6a39-6a1f-4812-adbe-e65ce73f20f4","name":"33ca6a39-6a1f-4812-adbe-e65ce73f20f4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"9121305c-55f0-43f2-9e70-c8026b555c16","name":"9121305c-55f0-43f2-9e70-c8026b555c16","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"6564cfb9-e655-4497-b0ce-248387ce77f4","name":"6564cfb9-e655-4497-b0ce-248387ce77f4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
@@ -511,7 +510,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":443.0,
+    "length":442.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -1736,131 +1735,128 @@
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3ede3d9f-7243-4b09-8746-5cbb4a82dd9f","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"2c52c469-350c-4724-b6e8-e90451fdbdf4","IsCreationKey":false,"Key":400.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dbab48e1-f406-4d25-9978-e6bf72964fc2","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c83809d7-8bea-4c46-bfc7-bacc0de11b9e","IsCreationKey":false,"Key":401.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"33ca6a39-6a1f-4812-adbe-e65ce73f20f4","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"4f2e5c62-e16c-4207-a034-8addabe3cdfb","IsCreationKey":false,"Key":402.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"4f2e5c62-e16c-4207-a034-8addabe3cdfb","IsCreationKey":false,"Key":401.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9121305c-55f0-43f2-9e70-c8026b555c16","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"00c13383-9e22-4a88-bfc6-e7cddd6d866d","IsCreationKey":false,"Key":403.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"00c13383-9e22-4a88-bfc6-e7cddd6d866d","IsCreationKey":false,"Key":402.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6564cfb9-e655-4497-b0ce-248387ce77f4","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9712de08-7d05-497f-81de-911059092a1c","IsCreationKey":false,"Key":404.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"9712de08-7d05-497f-81de-911059092a1c","IsCreationKey":false,"Key":403.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"822d49a0-d185-4c7a-8827-4f8d55780271","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"042fe37b-b56a-4982-a924-7c3519be397d","IsCreationKey":false,"Key":405.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"042fe37b-b56a-4982-a924-7c3519be397d","IsCreationKey":false,"Key":404.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"91398ecc-8335-4a01-b157-0e0050b470b2","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"7b05305f-a084-4635-974e-336a6e607f7a","IsCreationKey":false,"Key":406.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"7b05305f-a084-4635-974e-336a6e607f7a","IsCreationKey":false,"Key":405.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e424761c-96db-4caa-a7ee-b7fab94b33f7","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f1e19434-87e2-4c51-8dcd-bbb38c090047","IsCreationKey":false,"Key":407.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"f1e19434-87e2-4c51-8dcd-bbb38c090047","IsCreationKey":false,"Key":406.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5ed15b70-2289-4e63-a1cb-cb4a3d722c5a","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"813bd90a-318e-4d31-bc43-8cb687c3b75f","IsCreationKey":false,"Key":408.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"813bd90a-318e-4d31-bc43-8cb687c3b75f","IsCreationKey":false,"Key":407.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3e1c2048-9ec4-4f9a-aab3-1d57d2772139","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"62930626-7a65-408c-ab68-5d309f21119e","IsCreationKey":false,"Key":409.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"62930626-7a65-408c-ab68-5d309f21119e","IsCreationKey":false,"Key":408.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4ab30f1a-779a-45fa-bb49-f2104c17ab68","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b023cee9-f9f1-423d-8c7c-aeef15f3a872","IsCreationKey":false,"Key":410.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"b023cee9-f9f1-423d-8c7c-aeef15f3a872","IsCreationKey":false,"Key":409.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b7dbc0be-fbcf-49cb-833a-5ea73d18d330","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b75833c8-60ab-46ed-8b71-e4181ecc05de","IsCreationKey":false,"Key":411.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"b75833c8-60ab-46ed-8b71-e4181ecc05de","IsCreationKey":false,"Key":410.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9f927812-17ca-4220-bc27-6104aed29371","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e8dc4948-d2b4-4f4f-add4-2748d2c27ff3","IsCreationKey":false,"Key":412.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"e8dc4948-d2b4-4f4f-add4-2748d2c27ff3","IsCreationKey":false,"Key":411.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"56048dbb-682b-4935-95f7-a03f1a233f65","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"dec654ce-2fa4-4bba-a15d-d859bf26f541","IsCreationKey":false,"Key":413.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"dec654ce-2fa4-4bba-a15d-d859bf26f541","IsCreationKey":false,"Key":412.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b1d49dc7-52e2-418b-abb9-8b0b7734b2a9","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"3dd98cbb-e432-4bc2-88f3-d65888d1d1b5","IsCreationKey":false,"Key":414.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"3dd98cbb-e432-4bc2-88f3-d65888d1d1b5","IsCreationKey":false,"Key":413.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"137ac445-9cb2-4461-bbfd-bf5ccfda6ea8","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"50dc50d3-ed8b-49cb-beb8-b47175d82ade","IsCreationKey":false,"Key":415.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"50dc50d3-ed8b-49cb-beb8-b47175d82ade","IsCreationKey":false,"Key":414.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"efc7dc9e-b979-4409-bdbd-8e9915972343","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"397fbf05-5029-4ca7-ac3a-3b59df054352","IsCreationKey":false,"Key":416.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"397fbf05-5029-4ca7-ac3a-3b59df054352","IsCreationKey":false,"Key":415.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fa0ae413-df2f-49a7-a7f7-2c9cef2edad7","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"52f66642-b7b9-457e-96d6-727fd382891c","IsCreationKey":false,"Key":417.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"52f66642-b7b9-457e-96d6-727fd382891c","IsCreationKey":false,"Key":416.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3440dcfe-d2a8-4e09-bbae-c85de97bdf48","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"29626f19-cbf7-4c82-8ed6-0f4c84ad2744","IsCreationKey":false,"Key":418.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"29626f19-cbf7-4c82-8ed6-0f4c84ad2744","IsCreationKey":false,"Key":417.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d4437f99-6b43-46ad-83b6-a79f850404f6","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"90e6e52d-39af-41f7-9db3-79aadfbaa48c","IsCreationKey":false,"Key":419.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"90e6e52d-39af-41f7-9db3-79aadfbaa48c","IsCreationKey":false,"Key":418.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e90bc6e1-7867-401d-b99c-a4cb35018c9d","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ed014554-8e3a-4420-8829-d34c2fa2cc9d","IsCreationKey":false,"Key":420.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"ed014554-8e3a-4420-8829-d34c2fa2cc9d","IsCreationKey":false,"Key":419.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cd01fba9-4189-48a9-95db-e9d7a8398e5d","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"982ab326-b265-4d7e-9a33-8fc7ff05779b","IsCreationKey":false,"Key":421.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"982ab326-b265-4d7e-9a33-8fc7ff05779b","IsCreationKey":false,"Key":420.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"424f418b-dbe5-407d-ab0b-ae63b5a3cd43","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"5bab16fa-eb65-46f7-9efa-3323ecdaf2c9","IsCreationKey":false,"Key":422.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"5bab16fa-eb65-46f7-9efa-3323ecdaf2c9","IsCreationKey":false,"Key":421.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6d6236f9-1012-4ac2-a343-6b4777220ee5","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"edf77153-dbae-4550-871f-7e4246dbd8fb","IsCreationKey":false,"Key":423.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"edf77153-dbae-4550-871f-7e4246dbd8fb","IsCreationKey":false,"Key":422.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f64b5472-e51a-4e13-ac8d-17b8f92174f0","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1fac697e-c794-452e-8da2-75e9b6fa957a","IsCreationKey":false,"Key":424.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"1fac697e-c794-452e-8da2-75e9b6fa957a","IsCreationKey":false,"Key":423.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"03a588fe-9240-4828-9e52-63e76f34ed32","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"91f3a7ee-57c0-4ab9-8040-6ebce0c09016","IsCreationKey":false,"Key":425.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"91f3a7ee-57c0-4ab9-8040-6ebce0c09016","IsCreationKey":false,"Key":424.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"412df71b-704b-4888-8906-59160627ff2f","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"35ddb706-a18b-4422-ab9a-834edf82079b","IsCreationKey":false,"Key":426.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"35ddb706-a18b-4422-ab9a-834edf82079b","IsCreationKey":false,"Key":425.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"779fce97-6e2d-4b95-8156-c254c67efb39","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"cbaf007d-6e28-4615-8e3d-2dab874556e6","IsCreationKey":false,"Key":427.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"cbaf007d-6e28-4615-8e3d-2dab874556e6","IsCreationKey":false,"Key":426.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"05f31fc0-8478-4447-ad57-330a5050cd4a","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ad9c4691-56d6-460d-83c6-4e936b27b845","IsCreationKey":false,"Key":428.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"ad9c4691-56d6-460d-83c6-4e936b27b845","IsCreationKey":false,"Key":427.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bcf09b85-7277-4ed5-94e8-a5475913e8ab","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"906c8167-f7c8-45f1-b2de-99e4c02c8fff","IsCreationKey":false,"Key":429.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"906c8167-f7c8-45f1-b2de-99e4c02c8fff","IsCreationKey":false,"Key":428.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e8c787fc-a6e4-403b-b2f0-06013616b2b8","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e25444d2-b58d-4349-9118-5040e81865fe","IsCreationKey":false,"Key":430.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"e25444d2-b58d-4349-9118-5040e81865fe","IsCreationKey":false,"Key":429.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"42bed6ae-d37b-412e-bb79-a1bb112ae9d8","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f171877c-823e-4d42-9635-d7c2f84991fc","IsCreationKey":false,"Key":431.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"f171877c-823e-4d42-9635-d7c2f84991fc","IsCreationKey":false,"Key":430.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"98dd78f3-03b3-4053-8e8a-9eb6f5bf1c6e","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e4bdceb8-dc22-4ae5-b239-db14b9d58d07","IsCreationKey":false,"Key":432.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"e4bdceb8-dc22-4ae5-b239-db14b9d58d07","IsCreationKey":false,"Key":431.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"173f6aab-68f7-4efb-a6ad-19f1346fcf52","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"505c3082-30b0-40a6-a349-8851ea48796d","IsCreationKey":false,"Key":433.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"505c3082-30b0-40a6-a349-8851ea48796d","IsCreationKey":false,"Key":432.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"84ef38b9-9972-4a98-a977-3041219149c8","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"44577aef-26bc-4a8f-9862-c136438289ef","IsCreationKey":false,"Key":434.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"44577aef-26bc-4a8f-9862-c136438289ef","IsCreationKey":false,"Key":433.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4990b972-f0e2-4caa-b8fe-d29fe877d833","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6a230738-6b79-44f6-9524-4c981816406c","IsCreationKey":false,"Key":435.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"6a230738-6b79-44f6-9524-4c981816406c","IsCreationKey":false,"Key":434.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"25a1862e-e3c4-47a4-a547-63f69a23cda1","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ae98fa2d-b710-4fd6-9d64-21b35261be54","IsCreationKey":false,"Key":436.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"ae98fa2d-b710-4fd6-9d64-21b35261be54","IsCreationKey":false,"Key":435.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"85f2bd79-c2e0-491b-ad80-c82dc0cae6f9","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"49f569b6-9f4b-44ea-b6fe-225a0cf0c16b","IsCreationKey":false,"Key":437.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"49f569b6-9f4b-44ea-b6fe-225a0cf0c16b","IsCreationKey":false,"Key":436.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"73cdbff3-f0a1-4c27-8fcd-3b840b8a9d0a","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0fc686c0-e014-46d0-aa6a-734e4ef9a7c8","IsCreationKey":false,"Key":438.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"0fc686c0-e014-46d0-aa6a-734e4ef9a7c8","IsCreationKey":false,"Key":437.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8cfc553d-0e12-4860-bd37-443928efd326","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"22b711d9-7b30-4be9-bca9-938757d6a3f3","IsCreationKey":false,"Key":439.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"22b711d9-7b30-4be9-bca9-938757d6a3f3","IsCreationKey":false,"Key":438.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6c350e19-a425-4dee-b836-b4b546ca7d0e","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"563f089d-8d93-4f1b-b638-e7b5b1277da9","IsCreationKey":false,"Key":440.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"563f089d-8d93-4f1b-b638-e7b5b1277da9","IsCreationKey":false,"Key":439.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e6313808-fd1e-4d1b-8f70-6868e5a781b2","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"20533412-ae48-432c-a4e3-097b9dc7ca79","IsCreationKey":false,"Key":441.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"20533412-ae48-432c-a4e3-097b9dc7ca79","IsCreationKey":false,"Key":440.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f9bcdb70-1602-437f-a579-41be4656942d","path":"sprites/ani/ani.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"804bb77d-4f46-417d-8d5b-73347065415a","IsCreationKey":false,"Key":442.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"804bb77d-4f46-417d-8d5b-73347065415a","IsCreationKey":false,"Key":441.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

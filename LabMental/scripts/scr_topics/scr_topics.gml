@@ -1,27 +1,22 @@
 global.topics = {};
 
-global.topics[$ "one"] = [
+global.topics[$ "Breakfast"] = [
+	SPEAKER("Sam", spr_Porxande, PORTRAIT_SIDE.LEFT),
+	CHOICE("What do you want for breakfast?",
+		OPTION("Eggs", "Chose Eggs"),
+		OPTION("Pancakes", "Chose Pancakes"))
+];
 
-	SPEAKER("Alaxandre", spr_Porxande, PORTRAIT_SIDE.LEFT),
-	TEXT("ah... de novo esse sonho....."),
-	
-	SPEAKER("Cachorro", spr_portrait_rudy, PORTRAIT_SIDE.RIGHT),
-	TEXT("AU AU"),
-	
-	SPEAKER("Alaxandre", spr_Porxande2, PORTRAIT_SIDE.LEFT),
-	TEXT("bom dia Pitty"),
-	
-	SPEAKER("Alaxandre", spr_Porxande2, PORTRAIT_SIDE.LEFT),
-	TEXT("ta com fome? ja vou la arrumar"),
-	
-	SPEAKER("Pitty", spr_portrait_rudy, PORTRAIT_SIDE.RIGHT),
-	TEXT("AU!"),
-	
-	SPEAKER("Alaxandre", spr_Porxande3, PORTRAIT_SIDE.LEFT),
-	TEXT("ah verdade.... tenho que me arrumar, hoje tem consulta"),
-	
-	SPEAKER("Alaxandre", spr_Porxande3, PORTRAIT_SIDE.LEFT),
-	TEXT("não posso me atrasar..."),
-	
-	TEXT("APERTE ESPAÇO")
+global.topics[$ "Chose Eggs"] = [
+	TEXT("That's a healthy way to start the day!"),
+	GOTO("End of Breakfast")
+];
+
+global.topics[$ "Chose Pancakes"] = [
+	TEXT("Ooh, yummy!"),
+	GOTO("End of Breakfast")
+];
+
+global.topics[$ "End of Breakfast"] = [
+	TEXT("Goodbye, now!")
 ];
