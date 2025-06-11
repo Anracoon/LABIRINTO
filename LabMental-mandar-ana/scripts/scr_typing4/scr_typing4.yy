@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_typing4",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_typing4",
+  "parent":{
+    "name":"diagus4",
+    "path":"folders/Scripts/diagus4.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Snd_gameLab",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":106.645966,
+  "name":"Snd_gameLab",
+  "parent":{
+    "name":"Sons",
+    "path":"folders/Sons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_gameLab.mp3",
+  "type":0,
+  "volume":0.35,
+}

@@ -1,0 +1,1 @@
+Obj_irmaoSala2.visible=0;

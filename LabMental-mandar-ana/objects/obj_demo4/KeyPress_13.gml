@@ -1,0 +1,1 @@
+startDialogue4("four");
